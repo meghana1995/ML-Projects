@@ -1,5 +1,5 @@
 # ADBI-projects
-Homework and projects done in the course CSC591 Algorithms for Data-Guided Business Intelligence (ADBI)  (Spring 2019) <br> 
+Projects done in the course CSC591 Algorithms for Data-Guided Business Intelligence (ADBI)  (Spring 2019) <br> 
 **Instructor: Prof. Nagiza Samatova**
 
 ## Projects
@@ -52,11 +52,5 @@ We solve this using deep learning and the approach we will follow is based on th
 Use LDA(Latent Dirichlet Allocation) for topic modeling which is automatic organization and summarization of large electronic unstructured text corpus.It is used to uncover the major themes (topics) that pervade the corpus.
 
 
-## Homeworks
-### Homework 1: GLM Logistic Regression
-Build the logistic regression model (fit.all) using all the predictor in R and answer questions related to basics of logistic regression like equations, log-odds, statisitical significance, dispersion, etc.
-### Homework 2: Bayesian Parameter Estimation
-Bayesian Estimation of the Parameters of a Gaussian Distribution and answer related questions.
-### Homework 3: Stochastic Gradient Descent for Logistic Regression
-Implement SGD for the Logistic Regression problem from scratch. 
+
 
